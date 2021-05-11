@@ -52,7 +52,7 @@ TERMINATED
                 }
             };
             Thread th = new Thread(r);
-            threads.add(th);git
+            threads.add(th);
             th.start();
         }
     }
