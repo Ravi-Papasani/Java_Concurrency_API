@@ -2,7 +2,7 @@ package ProcessVSThreads.UsingThreads;
 
 import java.util.Scanner;
 
-public class WithThreadAPI {
+public class WithConcurrencyThreadAPI {
     public static void main(String[] args) {
         /*
         give input "n" as follows for observations

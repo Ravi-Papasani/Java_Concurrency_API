@@ -2,7 +2,7 @@ package ProcessVSThreads.UsingThreads;
 
 import java.util.Scanner;
 
-public class WithoutThreadAPI {
+public class WithoutConcurrencyThreadAPI {
     /*
     Calculate the nth Prime Number
     -> Get user input for n

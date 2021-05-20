@@ -13,7 +13,7 @@ public class ImplementingThreadSyntax implements Runnable{
         Runnable r1 = new Runnable() {
             @Override
             public void run() {
-                System.out.println("My Runnable Method");
+                    System.out.println("My Runnable Method");
             }
         };
 
